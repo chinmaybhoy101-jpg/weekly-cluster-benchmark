@@ -1,0 +1,4 @@
+Year,Week_Start_Date,Cluster,Company,Stores,Area_mn_sqft,Revenue_per_store,Margin_per_store,Net_additions,LFL_growth,Bills_per_store,ABV
+2026,2026-01-05,AP 1,Reliance Digital,3,4000.0,3.0,0.05,1,12.0,500,25000.0
+2026,2026-01-12,AP 3,Vijay Sales,5,6000.0,7.0,0.09,0,12.0,600,26000.0
+2026,2026-01-19,AP 1,Other,3,3000.0,4.0,0.04,1,0.17,60,26000.0
